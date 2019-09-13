@@ -29,8 +29,8 @@ h1 {
 button {
     text-transform: uppercase;
     border: none;
-    background-color: none;
-    -webkit-tap-highlight-color: none;
+    background-color: white;
+    -webkit-appearance: none;
     font-weight: 700;
     color: steelblue;
     letter-spacing: 1px;
