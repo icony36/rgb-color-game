@@ -2,4 +2,4 @@
 
 A simple rgb color game web app.
 
-### Live Demo: https://icony36.github.io/rgb_color_game/
+### Live Demo: https://icony36.github.io/rgb-color-game/
